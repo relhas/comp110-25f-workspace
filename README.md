@@ -1,4 +1,4 @@
-# COMP110 Workspace - Summer Session II 2025
+# COMP110 Workspace - Fall 2025
 
 Your work in the course will be completed in this workspace. Instructions for the two most common tasks you'll perform can be found below.
 
@@ -19,11 +19,9 @@ Your work in the course will be completed in this workspace. Instructions for th
 7. Select the `backup` remote that is your personal workspace on GitHub. If you do not see `backup` listed, see the instructions below on _Setup Backup Course Material Repository_.
    - You may see a spinning "refresh" icon in your status bar at the bottom of VSCode. Unless an error backing up occurs, you will not see any confirmation.
    - If you want to see your backed up work on Github, navigate to the following URL but replace `USERNAME` with your GitHub username:
-   - `https://github.com/comp110-25ss/comp110-workspace-USERNAME`
+   - `https://github.com/25f-comp110/comp110-workspace-USERNAME`
 
 ## Download New Course Material
-
-*Hopefully* you won't need use these instructions this semester, as your workspace should have all the materials you need, but we want to include this just in case!
 
 "Pulling" course materials down from Upstream. As new lesson material or starter code for exercises and projects is added to our central course repository, these are the steps you'll take to download them into your own workspace repository.
 
